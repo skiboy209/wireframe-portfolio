@@ -1,0 +1,50 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: #a0a0a0;
+}
+
+
+#header{
+    font-size:24pt;
+    padding:20px;
+    text-align:center;
+    height: 40px;
+    background: #000;
+    color: white;
+}
+
+body{
+    margin:0;
+    padding:0;
+}
+
+#myimg{
+    width: 200px;
+    border-radius: 50%;
+}
+
+#biolist{
+    list-style:disc;
+}
+
+.biolistitm{
+    list-style-type:square;
+}
+
+#footer{
+ border-top: 2px solid #000;
+ width:100%;
+ text-align:center;  
+}
+
+#footertitle{
+    float:left;
+}
+
+#footerlist{
+    list-style:none;
+}
+
+#footerlistitem{
+
+}
